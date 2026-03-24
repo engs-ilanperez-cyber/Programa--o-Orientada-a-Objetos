@@ -1,5 +1,4 @@
 
-
 public class locacao {
     private pessoa pessoaAlugando;
     private filme filmeAlugado;
